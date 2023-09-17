@@ -1,0 +1,22 @@
+:root {
+
+    --primary-color: greenyellow;
+    --green-color: green;
+
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', sans-serif;
+}
+
+.text-creep {
+
+    font-family: "creepster", serif;
+
+}
+
+main {
+    overflow: hidden;
+
+
+}
